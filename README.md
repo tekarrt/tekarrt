@@ -23,6 +23,7 @@ To organize my profile, I created a repository structure. At the beginning of th
 | -(technology name)- |The name of the technology, usually acts as the second key. |Secondary|
 | -(second author)- |Name, nickname of the second author.|Secondary|
 | -addon- |The code of other developers, projects was used or modified|Secondary|
+| template- |My Templates|Primary|
 
 `Example: my-addon-tekarrt-react-projectName`
 
